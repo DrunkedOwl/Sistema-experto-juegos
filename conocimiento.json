@@ -1,0 +1,841 @@
+{
+  "target": [
+    {
+      "name": "Age of Empires 2",
+      "genre": {
+        "1": "rts",
+        "2": "estrategia"
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "genre": {
+        "1": "aventura",
+        "2": "accion",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Super Mario Odyssey",
+      "genre": {
+        "1": "plataformas",
+        "2": "aventura"
+      }
+    },
+    {
+      "name": "Minecraft",
+      "genre": {
+        "1": "sandbox",
+        "2": "aventura",
+        "3": "supervivencia"
+      }
+    },
+    {
+      "name": "Overwatch",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "Fortnite",
+      "genre": {
+        "1": "battle royale",
+        "2": "accion",
+        "3": "supervivencia"
+      }
+    },
+    {
+      "name": "Among Us",
+      "genre": {
+        "1": "multijugador",
+        "2": "estrategia",
+        "3": "party game"
+      }
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Call of Duty: Modern Warfare",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "guerra"
+      }
+    },
+    {
+      "name": "Dark Souls III",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "fantasia"
+      }
+    },
+    {
+      "name": "Final Fantasy VII Remake",
+      "genre": {
+        "1": "rpg",
+        "2": "aventura",
+        "3": "fantasia"
+      }
+    },
+    {
+      "name": "Hades",
+      "genre": {
+        "1": "roguelike",
+        "2": "accion",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Stardew Valley",
+      "genre": {
+        "1": "simulacion",
+        "2": "aventura",
+        "3": "rpg"
+      }
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "genre": {
+        "1": "simulacion",
+        "2": "social",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "DOOM Eternal",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "horror"
+      }
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "mundo abierto",
+        "4": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto",
+        "4": "western"
+      }
+    },
+    {
+      "name": "Valorant",
+      "genre": {
+        "1": "fps",
+        "2": "tactico",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "League of Legends",
+      "genre": {
+        "1": "moba",
+        "2": "estrategia",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "genre": {
+        "1": "metroidvania",
+        "2": "accion",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Celeste",
+      "genre": {
+        "1": "plataformas",
+        "2": "aventura",
+        "3": "indie"
+      }
+    },
+    {
+      "name": "Monster Hunter: World",
+      "genre": {
+        "1": "accion",
+        "2": "rpg",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "fantasia"
+      }
+    },
+    {
+      "name": "Bloodborne",
+      "genre": {
+        "1": "accion",
+        "2": "rpg",
+        "3": "horror"
+      }
+    },
+    {
+      "name": "Persona 5",
+      "genre": {
+        "1": "rpg",
+        "2": "juegos de rol",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "The Sims 4",
+      "genre": {
+        "1": "simulacion",
+        "2": "vida",
+        "3": "creacion"
+      }
+    },
+    {
+      "name": "Rocket League",
+      "genre": {
+        "1": "deportes",
+        "2": "accion",
+        "3": "carreras"
+      }
+    },
+    {
+      "name": "Fall Guys: Ultimate Knockout",
+      "genre": {
+        "1": "party game",
+        "2": "multijugador",
+        "3": "accion"
+      }
+    },
+    {
+      "name": "Cuphead",
+      "genre": {
+        "1": "plataformas",
+        "2": "accion",
+        "3": "run and gun"
+      }
+    },
+    {
+      "name": "Terraria",
+      "genre": {
+        "1": "sandbox",
+        "2": "aventura",
+        "3": "supervivencia"
+      }
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "genre": {
+        "1": "accion",
+        "2": "rpg",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Assassin's Creed Valhalla",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "God of War",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mitologia"
+      }
+    },
+    {
+      "name": "Spider-Man: Miles Morales",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Dishonored 2",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "sigilo"
+      }
+    },
+    {
+      "name": "Dead Cells",
+      "genre": {
+        "1": "roguelike",
+        "2": "accion",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Apex Legends",
+      "genre": {
+        "1": "fps",
+        "2": "battle royale",
+        "3": "accion"
+      }
+    },
+    {
+      "name": "Valorant",
+      "genre": {
+        "1": "fps",
+        "2": "tactico",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "League of Legends",
+      "genre": {
+        "1": "moba",
+        "2": "estrategia",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "Diablo III",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "fantasia"
+      }
+    },
+    {
+      "name": "Starcraft II",
+      "genre": {
+        "1": "rts",
+        "2": "estrategia",
+        "3": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "Destiny 2",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "mmo"
+      }
+    },
+    {
+      "name": "Warframe",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "mmo"
+      }
+    },
+    {
+      "name": "Genshin Impact",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "aventura",
+        "4": "gacha"
+      }
+    },
+    {
+      "name": "Fortnite",
+      "genre": {
+        "1": "battle royale",
+        "2": "accion",
+        "3": "construccion"
+      }
+    },
+    {
+      "name": "Resident Evil Village",
+      "genre": {
+        "1": "horror",
+        "2": "supervivencia",
+        "3": "accion"
+      }
+    },
+    {
+      "name": "Half-Life: Alyx",
+      "genre": {
+        "1": "fps",
+        "2": "realidad virtual",
+        "3": "accion",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "Hitman 3",
+      "genre": {
+        "1": "accion",
+        "2": "sigilo",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Control",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "sobrenatural"
+      }
+    },
+    {
+      "name": "Tetris Effect",
+      "genre": {
+        "1": "puzzle",
+        "2": "musica",
+        "3": "arcade"
+      }
+    },
+    {
+      "name": "Ori and the Will of the Wisps",
+      "genre": {
+        "1": "plataformas",
+        "2": "aventura",
+        "3": "metroidvania"
+      }
+    },
+    {
+      "name": "Cuphead",
+      "genre": {
+        "1": "run and gun",
+        "2": "plataformas",
+        "3": "accion"
+      }
+    },
+    {
+      "name": "Splatoon 2",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "genre": {
+        "1": "metroidvania",
+        "2": "accion",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Celeste",
+      "genre": {
+        "1": "plataformas",
+        "2": "aventura",
+        "3": "indie"
+      }
+    },
+    {
+      "name": "Monster Hunter: World",
+      "genre": {
+        "1": "accion",
+        "2": "rpg",
+        "3": "aventura"
+      }
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "Dota 2",
+      "genre": {
+        "1": "moba",
+        "2": "estrategia",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "Rainbow Six Siege",
+      "genre": {
+        "1": "fps",
+        "2": "tactico",
+        "3": "multijugador"
+      }
+    },
+    {
+      "name": "The Last of Us Part II",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "supervivencia"
+      }
+    },
+    {
+      "name": "Elden Ring",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "fantasia",
+        "4": "mundo abierto"
+      }
+    },
+    {
+      "name": "Forza Horizon 4",
+      "genre": {
+        "1": "carreras",
+        "2": "mundo abierto",
+        "3": "simulacion"
+      }
+    },
+    {
+      "name": "Fallout 4",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "mundo abierto",
+        "4": "postapocaliptico"
+      }
+    },
+    {
+      "name": "Subnautica",
+      "genre": {
+        "1": "supervivencia",
+        "2": "aventura",
+        "3": "mundo abierto"
+      }
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "genre": {
+        "1": "supervivencia",
+        "2": "accion",
+        "3": "mundo abierto",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "Sea of Thieves",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "multijugador",
+        "4": "mundo abierto"
+      }
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "cooperativo",
+        "4": "horror"
+      }
+    },
+    {
+      "name": "The Outer Worlds",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "ciencia ficcion",
+        "4": "mundo abierto"
+      }
+    },
+    {
+      "name": "No Man's Sky",
+      "genre": {
+        "1": "aventura",
+        "2": "supervivencia",
+        "3": "exploracion",
+        "4": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "Borderlands 3",
+      "genre": {
+        "1": "fps",
+        "2": "rpg",
+        "3": "accion",
+        "4": "cooperativo"
+      }
+    },
+    {
+      "name": "Cuphead",
+      "genre": {
+        "1": "plataformas",
+        "2": "accion",
+        "3": "run and gun",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "Hades",
+      "genre": {
+        "1": "roguelike",
+        "2": "accion",
+        "3": "aventura",
+        "4": "rpg"
+      }
+    },
+    {
+      "name": "Slay the Spire",
+      "genre": {
+        "1": "roguelike",
+        "2": "carta",
+        "3": "estrategia",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "Portal 2",
+      "genre": {
+        "1": "puzzle",
+        "2": "accion",
+        "3": "aventura",
+        "4": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "FTL: Faster Than Light",
+      "genre": {
+        "1": "estrategia",
+        "2": "roguelike",
+        "3": "ciencia ficcion",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "Terraria",
+      "genre": {
+        "1": "sandbox",
+        "2": "aventura",
+        "3": "supervivencia",
+        "4": "construccion"
+      }
+    },
+    {
+      "name": "Stardew Valley",
+      "genre": {
+        "1": "simulacion",
+        "2": "aventura",
+        "3": "rpg",
+        "4": "granja"
+      }
+    },
+    {
+      "name": "Bioshock Infinite",
+      "genre": {
+        "1": "fps",
+        "2": "accion",
+        "3": "aventura",
+        "4": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "Darkest Dungeon",
+      "genre": {
+        "1": "rpg",
+        "2": "estrategia",
+        "3": "roguelike",
+        "4": "horror"
+      }
+    },
+    {
+      "name": "The Binding of Isaac: Rebirth",
+      "genre": {
+        "1": "roguelike",
+        "2": "accion",
+        "3": "aventura",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "Dead by Daylight",
+      "genre": {
+        "1": "horror",
+        "2": "supervivencia",
+        "3": "multijugador",
+        "4": "accion"
+      }
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "rpg",
+        "4": "mundo abierto"
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "genre": {
+        "1": "metroidvania",
+        "2": "accion",
+        "3": "aventura",
+        "4": "plataformas"
+      }
+    },
+    {
+      "name": "Inside",
+      "genre": {
+        "1": "aventura",
+        "2": "puzzle",
+        "3": "plataformas",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "Journey",
+      "genre": {
+        "1": "aventura",
+        "2": "exploracion",
+        "3": "indie",
+        "4": "artistico"
+      }
+    },
+    {
+      "name": "Mass Effect 3",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "ciencia ficcion",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "NieR: Automata",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "aventura",
+        "4": "ciencia ficcion"
+      }
+    },
+    {
+      "name": "Nioh 2",
+      "genre": {
+        "1": "rpg",
+        "2": "accion",
+        "3": "fantasia",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "Pillars of Eternity II: Deadfire",
+      "genre": {
+        "1": "rpg",
+        "2": "estrategia",
+        "3": "aventura",
+        "4": "fantasia"
+      }
+    },
+    {
+      "name": "Papers, Please",
+      "genre": {
+        "1": "simulacion",
+        "2": "puzzle",
+        "3": "indie",
+        "4": "aventura"
+      }
+    },
+    {
+      "name": "Persona 5",
+      "genre": {
+        "1": "rpg",
+        "2": "simulacion",
+        "3": "aventura",
+        "4": "juego de rol"
+      }
+    },
+    {
+      "name": "Return of the Obra Dinn",
+      "genre": {
+        "1": "aventura",
+        "2": "puzzle",
+        "3": "indie",
+        "4": "investigacion"
+      }
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "genre": {
+        "1": "accion",
+        "2": "aventura",
+        "3": "rpg",
+        "4": "fantasia"
+      }
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "genre": {
+        "1": "aventura",
+        "2": "accion",
+        "3": "puzzle",
+        "4": "fantasia"
+      }
+    },
+    {
+      "name": "Spelunky 2",
+      "genre": {
+        "1": "plataformas",
+        "2": "aventura",
+        "3": "roguelike",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "The Witness",
+      "genre": {
+        "1": "puzzle",
+        "2": "aventura",
+        "3": "exploracion",
+        "4": "indie"
+      }
+    },
+    {
+      "name": "XCOM 2",
+      "genre": {
+        "1": "estrategia",
+        "2": "tactico",
+        "3": "ciencia ficcion",
+        "4": "rpg"
+      }
+    }
+  ]
+}
